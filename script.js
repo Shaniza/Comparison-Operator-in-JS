@@ -24,4 +24,18 @@ console.log(i !== j)//!==,  ans - true if not equal value or not equal type
 //>	greater than
 const m = 10; 
 const n = 2;
-console.log(m > n)// true if is greater than n
+console.log(m > n)// true if m is greater than n
+
+//>= greater than or equal
+const one = 2; 
+const two = 2;
+console.log(one >= two)// true if is greater than or equal to n
+// less than , <
+const r = 1; 
+const s = 2;
+console.log(r < s)// true if r is less than s
+
+// <= less than or equal
+const u = 1; 
+const v = 2;
+console.log(u <= v)
