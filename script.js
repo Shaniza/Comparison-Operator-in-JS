@@ -39,3 +39,8 @@ console.log(r < s)// true if r is less than s
 const u = 1; 
 const v = 2;
 console.log(u <= v)
+
+const w = 100
+const x= "10"
+console.log(w < x) //false
+console.log(w > x)//true
